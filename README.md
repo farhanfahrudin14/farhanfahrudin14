@@ -1,11 +1,13 @@
-## Hi there 👋
+<!-- ### Hello World! I'm Muhammad Farhan Fakhrudin 👋 -->
+
+![farhan](img/banner.png)
 
 <!--
 **farhanfahrudin14/farhanfahrudin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +16,96 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### lorem ipsum dolor is amet
+
+---
+
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,php,laravel,bootstrap,nextjs,nodejs,react,mysql,netlify,vercel,figma&theme=light&perline=5)](https://skillicons.dev)
+
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> -->
+
+---
+
+##### Connect with me
+
+![https://www.instagram.com/farhan_fahrudin14/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@cxoexk_cxeoraf?_r=1&_t=ZS-91AIWjYtYBE](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.linkedin.com/in/muhammad-farhan-fakhrudin-9853ab222/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/farhanfahrudin14](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=)
+
+---
+
+##### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=farhanfahrudin14&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+##### GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=farhanfahrudin14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+##### Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=farhanfahrudin14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=farhanfahrudin14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="left">Play games with me</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/snake.svg" alt="Snake animation" />
+
+###
