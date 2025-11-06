@@ -1,0 +1,28 @@
+name: Pacman Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman
+        uses: Platane/snk@v3
+        id: pacman
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          mode: pacman
+
+      - name: Push Pacman files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/*"
+          message: "Generate Pacman graph"
