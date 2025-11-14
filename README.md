@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,php,laravel,bootstrap,nextjs,nodejs,react,mysql,netlify,vercel,figma&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,php,laravel,bootstrap,nextjs,nodejs,react,mysql,netlify,vercel,figma&theme=light&perline=10)](https://skillicons.dev)
 
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://www.instagram.com/farhan_fahrudin14/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@cxoexk_cxeoraf?_r=1&_t=ZS-91AIWjYtYBE](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.linkedin.com/in/muhammad-farhan-fakhrudin-9853ab222/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/farhanfahrudin14](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farhan_fahrudin14/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cxoexk_cxeoraf?_r=1&_t=ZS-91AIWjYtYBE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-fakhrudin-9853ab222/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanfahrudin14)
 
 ---
 
