@@ -1,0 +1,30 @@
+name: Generate Tetris Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # generate setiap 12 jam
+  workflow_dispatch:        # bisa run manual
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Tetris animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: farhanfahrudin14
+          outputs: |
+            output/tetris.svg
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update tetris animation"
+          add: "output/tetris.svg"
