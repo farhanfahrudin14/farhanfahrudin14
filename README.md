@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### lorem ipsum dolor is amet
-
+### Hello World! — I'm a Front-End Developer | Tech Enthusiast passionate about building clean, modern, and user-focused web interfaces.
 ---
 
 ##### Skills
