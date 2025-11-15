@@ -51,11 +51,16 @@ Here are some ideas to get you started:
 
 ##### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farhanfahrudin14&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="180px"/>
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrudin14&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" width="400px"/>
+  
+  <img 
+  src="https://nirzak-streak-stats.vercel.app/?user=farhanfahrudin14&theme=gruvbox&hide_border=false" 
+  height="164px"
+/>
+</div>
 
 ##### GitHub Trophies
 
