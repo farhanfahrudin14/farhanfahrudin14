@@ -87,7 +87,6 @@ Here are some ideas to get you started:
 ###
 
 <img src="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/farhanfahrudin14/farhanfahrudin14/output/tetris.svg" alt="tetris"/>
 
 
 ###
